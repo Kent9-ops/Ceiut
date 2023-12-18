@@ -51,7 +51,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 confetti.render();
 
  let p = document.createElement("p");
- p.innerText = "Congrats you made the right choice 🎉 \nDM me the time and venue 😉";
+ p.innerText = "Felicitări ai făcut alegerea potrivită 🎉 \nNe vedem curând 😉";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
